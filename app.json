@@ -1,0 +1,21 @@
+{
+    "name": "Telegram Leecher",
+    "description": "A Telegram Leecher based on Pyrogram",
+    "keywords": [
+      "telegram",
+      "pyrogram",
+      "torrent",
+      "3",
+      "leecher"
+    ],
+    "website": "https://github.com/mr-wh1tehat/Botkaca-fxd",
+    "repository": "https://github.com/mr-wh1tehat/Botkaca-fxd",
+    "stack": "container",
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
+  

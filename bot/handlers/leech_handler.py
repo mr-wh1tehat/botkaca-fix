@@ -23,7 +23,7 @@ from bot.handlers import cancel_leech_handler
 @Client.on_message(filters.command(COMMAND.LEECH)& (filters.channel | filters.group | filters.user(CONFIG.SUDO_USERS)))
 async def func(client, message):
     if not message.reply_to_message:
-        await message.reply(" Reply to a Magnet Link or Direct Link! ")
+        await message.reply(" Reply to a Magnet Link or a Direct Link! ")
         return
     args = message.reply_to_message
     chat_id = message.chat.id

@@ -5,4 +5,4 @@
 3) connect your git account with heroku by creating a fake app
 4) Tap that big deploy button
 
-[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/mr-wh1tehat/Botkaca-fxd "Heroku")
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/mr-wh1tehat/botkaca-fix "Heroku")

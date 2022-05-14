@@ -14,7 +14,7 @@ CONFIG = Config({
     'BOT_TOKEN' : 'your bot token',
     'BOT_PASSWORD' : None,
     'CHAT_ID' : 'group id',
-    'SUDO_USERS' : [owner id, sudouser id],
+    'SUDO_USERS' : 5354345941,
     'EDIT_SLEEP' : 20,
     'UPLOAD_MAX_SIZE' : 2000 * 1024 * 1024,
     'UPLOAD_AS_DOC' : 0,

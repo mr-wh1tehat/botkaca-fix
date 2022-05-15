@@ -2,9 +2,9 @@
 from bot.locals import Local
 
 LOCAL = Local({
-    'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' :'hello' ,
-    'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
+    #'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
+    #'WELCOME_MESSAGE' :'hello' ,
+    #'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
     'ARIA2_CHECKING_LINK' : "Checking...",

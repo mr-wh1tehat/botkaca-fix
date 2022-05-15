@@ -6,7 +6,6 @@ from bot import COMMAND, LOCAL, CONFIG
 async def func(client, message):
     text = LOCAL.HELP_MESSAGE_HEADER + "\n"
     for cmd_code, cmd in COMMAND:
-        info = LOCAL.NO_HELP_INFO
         cmd_local = f'COMMAND_{cmd_code}' 
         if cmd_local in dict(LOCAL):
             info = getattr(LOCAL, cmd_local)

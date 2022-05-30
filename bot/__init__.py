@@ -10,7 +10,7 @@ CONFIG = Config({
     'LOG_FILE' : 'log.txt',
     'MAX_LOG_SIZE' : 10 * 1024 * 1024,
     'API_HASH' : '28b864c5a410bb2ae9d0e16672b6e02d',
-    'API_ID' : '571632',
+    'API_ID' : '576732',
     'BOT_TOKEN' : '5394915938:AAHzXY6H1VJ4zPyTwREKPftOoyNAzrUhEp8',
     'BOT_PASSWORD' : None,
     'CHAT_ID' : 'group id',

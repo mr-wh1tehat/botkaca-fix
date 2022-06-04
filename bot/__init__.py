@@ -12,7 +12,7 @@ CONFIG = Config({
     'API_HASH' : '28b864c5a410bb2ae9d0e16672b6e02d',
     'API_ID' : '576732',
     'BOT_TOKEN' : '5394915938:AAHzXY6H1VJ4zPyTwREKPftOoyNAzrUhEp8',
-    'BOT_PASSWORD' : None,
+    'BOT_PASSWORD' : 0000,
     'CHAT_ID' : 'group id',
     'SUDO_USERS' : 5354345941,
     'EDIT_SLEEP' : 20,

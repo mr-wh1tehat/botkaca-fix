@@ -1,4 +1,5 @@
 pyrogram==1.4.16
 pyromod
 tgcrypto
+git+https://github.com/aria2/aria2.git
 aria2p
